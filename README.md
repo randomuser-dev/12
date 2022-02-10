@@ -41,8 +41,8 @@
                                     <li><a href="#ur">Уран</a>
                                         <li><a href="#n">Нептун</a>
 
-        </ol>
-        </p></h1></font>
+    
+                                          
   </ul>
 </nav>
 <font color="white"><h1><p align="center">Предисловие</p></h1></font>
